@@ -1,0 +1,15 @@
+#Tous les fichers nommés password.txt
+#password.txt
+
+#Les ficher password.txt du sous-dossier subfolder
+#subfolder/password.txt
+
+
+#Tous les dossier nommées subfolder
+#subfolder/
+
+#Les dossier subfolder à la racine du repos
+#/subfolder/
+
+#Tous les fichiers dinissant par .txt
+*.txt
